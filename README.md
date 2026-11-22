@@ -10,7 +10,9 @@
 * 🔄 **Smart Auto-Updates**: Seamlessly checks GitHub releases on launch and patches only modified files without overwriting user scripts.
 * 🖥️ **Desktop Shortcut**: Automatically generates a clean desktop shortcut for quick access.
 * 🛡️ **Integrity & Checksum Verification**: Validates downloaded packages before extraction, preventing corrupt files.
-* 💎 **Full Synapse X Power**: Monaco multi-tab code editor, 100% UNC environment compatibility, high-performance injection, and built-in script hub.
+* 💎 **Full Synapse X Power**: Monaco multi-tab code editor, 100% UNC environment compatibility.
+  <img width="1920" height="1014" alt="image" src="https://github.com/user-attachments/assets/74cbf834-2f2f-4f16-a8cd-c734c708e1cf" />
+
 
 ---
 
